@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.2.0
+
+### Minor Changes
+
+- 0fcf229: Add a new built-in format javascript/esm that outputs an ES module JS default export.
+
+### Patch Changes
+
+- 5e3a5af: Update .d.ts/js files type imports to use correct extensions rather than extensionless. This fixes some incompatibilities with latest TypeScript "NodeNext" moduleResolution.
+
 ## 4.1.4
 
 ### Patch Changes
